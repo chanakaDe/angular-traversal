@@ -33,7 +33,6 @@ testem.log
 Thumbs.db
 
 # test subproject and demo
-/demo
 /tests/dist
 /tests/tmp
 /tests/node_modules
